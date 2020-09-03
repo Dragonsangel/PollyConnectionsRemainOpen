@@ -7,9 +7,12 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PollyConnectionsRemainOpen"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{EC2B576A-A937-4C7D-869C-C1BF8A4E17F5}"
 	ProjectSection(SolutionItems) = preProject
-		HelperScript_Call_With_Polly.ps1 = HelperScript_Call_With_Polly.ps1
-		HelperScript_Call_Without_Polly.ps1 = HelperScript_Call_Without_Polly.ps1
-		HelperScript_Show_Connections.ps1 = HelperScript_Show_Connections.ps1
+		HelperScript_00_All_Steps.ps1 = HelperScript_00_All_Steps.ps1
+		HelperScript_01_Build_And_Run.ps1 = HelperScript_01_Build_And_Run.ps1
+		HelperScript_02_Call_Without_Polly.ps1 = HelperScript_02_Call_Without_Polly.ps1
+		HelperScript_03_Call_With_Polly.ps1 = HelperScript_03_Call_With_Polly.ps1
+		HelperScript_04_Show_Connections.ps1 = HelperScript_04_Show_Connections.ps1
+		readme.md = readme.md
 	EndProjectSection
 EndProject
 Global

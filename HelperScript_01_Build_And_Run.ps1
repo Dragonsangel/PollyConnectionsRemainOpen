@@ -1,1 +1,1 @@
-dotnet run --launch-profile PollyConnectionsRemainOpen -p .\PollyConnectionsRemainOpen\PollyConnectionsRemainOpen.csproj
+dotnet run -c Debug --launch-profile PollyConnectionsRemainOpen -p .\PollyConnectionsRemainOpen\PollyConnectionsRemainOpen.csproj
