@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30413.136
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PollyConnectionsRemainOpen", "PollyConnectionsRemainOpen\PollyConnectionsRemainOpen.csproj", "{16B15222-C620-40AB-A747-81BBADC28B32}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{EC2B576A-A937-4C7D-869C-C1BF8A4E17F5}"
+	ProjectSection(SolutionItems) = preProject
+		HelperScript_Call_With_Polly.ps1 = HelperScript_Call_With_Polly.ps1
+		HelperScript_Call_Without_Polly.ps1 = HelperScript_Call_Without_Polly.ps1
+		HelperScript_Show_Connections.ps1 = HelperScript_Show_Connections.ps1
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{16B15222-C620-40AB-A747-81BBADC28B32}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{16B15222-C620-40AB-A747-81BBADC28B32}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{16B15222-C620-40AB-A747-81BBADC28B32}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{16B15222-C620-40AB-A747-81BBADC28B32}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D5881A5B-06EF-4866-8D33-3236186F9A25}
+	EndGlobalSection
+EndGlobal
