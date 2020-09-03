@@ -6,6 +6,10 @@ This repository is here to show this problem and help the devs.
 
 The solution was created to also illustrate the problem for the issues in the [Polly](https://github.com/App-vNext/Polly/issues/790) and [dotnet/extensions](https://github.com/dotnet/extensions/issues/3385) repositories.
 
+#### NOTE
+From running the test on other peoples system, it seems that this only happens when the program is run von within Visual Studio.
+I have not found the reason for this.
+
 ### How to reproduce
 * Clone the repository locally.
 * You can either use the Powershell script to Build&Run (_HelperScript_01_Build_And_Run.ps1_) the application or load the solution in Visual Studio and run it from there.
