@@ -4,7 +4,7 @@ After investigations, it was identified that these connections originate from th
 
 This repository is here to show this problem and help the devs.
 
-The solution was created to also illustrate the problem for the issues in the [Polly](https://github.com/App-vNext/Polly/issues/790) and [dotnet/extensions](https://github.com/dotnet/extensions/issues/3385) repositories.
+The solution was created to also illustrate the problem for the issues in the [Polly](https://github.com/App-vNext/Polly/issues/790) and [dotnet/aspnetcore](https://github.com/dotnet/aspnetcore/issues/28384) repositories.
 
 #### NOTE
 ~From running the test on other peoples system, it seems that this only happens when the program is run von within Visual Studio.
